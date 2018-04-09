@@ -1,0 +1,108 @@
+{
+    "talks": [
+        {
+            "title": "Touch Tokens",
+            "details": "Research talk",
+            "author": "Rafael Morales",
+            "date": "10/02/2016",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "Command Selection and User Expertise",
+            "details": "Research talk: keynote practice talk",
+            "author": "Gilles Bailly",
+            "date": "17/02/2016",
+            "time": "3pm",
+            "place": "C47"
+        },
+        {
+            "title": "Fitting Fits to Shannon",
+            "details": "Research Talk: Trying to reconcile Fitts' lax and Shannon's information theory",
+            "author": "Julien Gori",
+            "date": "24/02/2016",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "Constructive Visualization",
+            "details": "Research Talk",
+            "author": "Samuel Huron",
+            "date": "27/01/2016",
+            "time": "3pm",
+            "place": "C221"
+        },
+        {
+            "title": "IC2 Lunch Seminar",
+            "details": "Research Talks",
+            "author": "Pierre-Alexandre Murena & Nadia Boukhelifa",
+            "date": "20/01/2016",
+            "time": "Noon",
+            "place": "C48"
+        },
+        {
+            "title": "Interacting with Information in the Physical World",
+            "details": "Research Talk",
+            "author": "Yvonne Jansen",
+            "date": "18/01/2016",
+            "time": "3pm",
+            "place": "C221"
+        },
+        {
+            "title": "Interacting with small screens",
+            "details": "Brainstorming session",
+            "author": "Wanyu (Abby) Liu",
+            "date": "13/01/2016",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "PhD Reersal",
+            "details": "PhD defense practice talk",
+            "author": "Can Liu",
+            "date": "15/12/2015",
+            "time": "10:30am",
+            "place": "C221"
+        },
+        {
+            "title": "PhD Reersal",
+            "details": "PhD defense practice talk",
+            "author": "Quentin Roy",
+            "date": "9/12/2015",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "Research Talks",
+            "details": "Research presentations",
+            "author": "Bruno Fruchard & Marc-Emmanuel Perrin",
+            "date": "02/12/2016",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "Conference Round-Up",
+            "details": "InfoVIS and UIST Round-Up",
+            "author": "James Eagan",
+            "date": "18/11/2015",
+            "time": "3pm",
+            "place": "C229"
+        },
+        {
+            "title": "IC2 Lunch Seminar",
+            "details": "Talk on Optimal Investment in Social Signals",
+            "author": "Jean-Louis Dessalles",
+            "date": "04/11/2015",
+            "time": "Noon",
+            "place": "C49"
+        },
+        {
+            "title": "Practice talk and demo",
+            "details": "InfoVIS SchemeLens practice talk and Chameleon demo",
+            "author": "James Eagan & Fumio Mizuno",
+            "date": "21/10/2015",
+            "time": "3pm",
+            "place": "C229"
+        }
+    ]
+}
